@@ -43,4 +43,3 @@ The app requests the following permissions:
 ## Bonus Features & Notes
 
 - The app is structured with a clear separation of concerns (models, providers, screens, services).
-# wifi-connect-app
